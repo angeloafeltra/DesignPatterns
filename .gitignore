@@ -56,3 +56,4 @@ dkms.conf
 ./File Keynote
 ./File Keynote/**
 .DS_Store
+*.DS_Store
